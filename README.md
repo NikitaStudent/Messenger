@@ -15,9 +15,9 @@
 
 
 ### Текущие задачи по данному проекту
-[Trello](https://trello.com/techprog1/home)
+[Trello](https://trello.com/b/0wPq9WlH)
 ### Функциональные схемы проекта
-[Miro](https://miro.com/app/dashboard/)
+[Miro](https://miro.com/app/board/o9J_kvWNSzM=/)
 ### Описание требований к проекту
 [ТехЗадание](https://docs.google.com/document/d/1hsu6qF6BrKbgCqQIIjXpkb_GvAZzVQQDVP8Dr3qf16s/edit)
 ### Итоговый документ по проекту
