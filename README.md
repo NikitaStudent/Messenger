@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DemitrixQ/Messenger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ # **MeSI**
+ Веб-приложение
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
+Данный проект представляет собой курсовую работу по дисциплине "Технологии Программирования"
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Тема:*Системы мгновенного обмена сообщениями*
 
-```markdown
-Syntax highlighted code block
+Над проектом работают студенты  3 курса ФКН :   
+1.  Лепехин Д.А.   -  [Контакт](mailto:programmist.demon@gmail.com)
+2.  Кожевников Н.А. - [Контакт](mailto:NIKITA31K@gmail.com)    
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DemitrixQ/Messenger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Текущие задачи по данному проекту
+[Trello](https://trello.com/techprog1/home)
+### Функциональные схемы проекта
+[Miro](https://miro.com/app/dashboard/)
+### Описание требований к проекту
+[ТехЗадание](https://docs.google.com/document/d/1hsu6qF6BrKbgCqQIIjXpkb_GvAZzVQQDVP8Dr3qf16s/edit)
+### Итоговый документ по проекту
+[Курсовая работа](https://docs.google.com/document/d/1oatQA6QfWHAQhGO_ZbFka9ZbBXqLk3-ouQpQKJ2z8Jc/edit)
