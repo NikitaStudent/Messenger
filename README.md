@@ -20,7 +20,7 @@
 [Miro](https://miro.com/app/board/o9J_kvWNSzM=/)
 ### Описание требований к проекту
 [ТехЗадание](https://docs.google.com/document/d/1EAAIgznqKwyyF7xjHQTcy0OCTTM5TdwZNDepnf2QQBQ/edit?usp=sharing)  
-[ТехЗадание на GitHub](https://github.com/NikitaStudent/Messenger/blob/master/ТЗ-4.docx)
+[ТехЗадание на GitHub](https://github.com/NikitaStudent/Messenger/blob/master/Документация/ТЗ.pdf)
 ### Итоговый документ по проекту
 [Курсовая работа](https://docs.google.com/document/d/16nBLtC4qxpOhfyT2n_C4rHom_ByxrPFWrUCowtkOZSo/edit?usp=sharing)  
 [Курсовая работа на Github](https://github.com/NikitaStudent/Messenger/blob/master/Документация/Курсовая%20работа%20по%20ТехПроге.pdf)
