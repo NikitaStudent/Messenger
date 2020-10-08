@@ -24,4 +24,6 @@
 ### Итоговый документ по проекту
 [Курсовая работа](https://docs.google.com/document/d/16nBLtC4qxpOhfyT2n_C4rHom_ByxrPFWrUCowtkOZSo/edit?usp=sharing)  
 [Курсовая работа на Github](https://github.com/NikitaStudent/Messenger/blob/master/Документация/Курсовая%20работа%20по%20ТехПроге.pdf)
+### Презентация проекта
+[Презентация](https://github.com/NikitaStudent/Messenger/blob/master/Presentation.pptx)
 
